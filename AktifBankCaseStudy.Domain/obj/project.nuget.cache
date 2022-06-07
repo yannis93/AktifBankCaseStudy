@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EreKXb0tewNXchGu9TeTa0eayAQ/SReAd4GJOFS4p/NILZsY7tWP3ydxeqitD8KBEeOXLhh5WfFfhC/hlryNEQ==",
+  "success": true,
+  "projectFilePath": "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.Domain/AktifBankCaseStudy.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/yunusemrebayazit/.nuget/packages/ardalis.specification/6.0.1/ardalis.specification.6.0.1.nupkg.sha512",
+    "/Users/yunusemrebayazit/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

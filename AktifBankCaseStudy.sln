@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AktifBankCaseStudy.Api", "AktifBankCaseStudy.Api\AktifBankCaseStudy.Api.csproj", "{131A5454-7D2F-4299-A84F-D39F22E09714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AktifBankCaseStudy.Application", "AktifBankCaseStudy.Application\AktifBankCaseStudy.Application.csproj", "{7445812D-BE33-46B6-A4D4-A94014E222BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AktifBankCaseStudy.Domain", "AktifBankCaseStudy.Domain\AktifBankCaseStudy.Domain.csproj", "{64299E7A-908F-40EA-8952-2EA7561E20FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AktifBankCaseStudy.SharedKernel", "AktifBankCaseStudy.SharedKernel\AktifBankCaseStudy.SharedKernel.csproj", "{002E9134-FFBB-4D51-AE17-7C1D203BF61A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AktifBankCaseStudy.Infrastructure.EfCore", "AktifBankCaseStudy.Infrastructure.EfCore\AktifBankCaseStudy.Infrastructure.EfCore.csproj", "{1671C03F-4EBB-468A-9184-13DC4F02D3F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131A5454-7D2F-4299-A84F-D39F22E09714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131A5454-7D2F-4299-A84F-D39F22E09714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131A5454-7D2F-4299-A84F-D39F22E09714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131A5454-7D2F-4299-A84F-D39F22E09714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7445812D-BE33-46B6-A4D4-A94014E222BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7445812D-BE33-46B6-A4D4-A94014E222BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7445812D-BE33-46B6-A4D4-A94014E222BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7445812D-BE33-46B6-A4D4-A94014E222BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64299E7A-908F-40EA-8952-2EA7561E20FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64299E7A-908F-40EA-8952-2EA7561E20FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64299E7A-908F-40EA-8952-2EA7561E20FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64299E7A-908F-40EA-8952-2EA7561E20FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002E9134-FFBB-4D51-AE17-7C1D203BF61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002E9134-FFBB-4D51-AE17-7C1D203BF61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002E9134-FFBB-4D51-AE17-7C1D203BF61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002E9134-FFBB-4D51-AE17-7C1D203BF61A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1671C03F-4EBB-468A-9184-13DC4F02D3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1671C03F-4EBB-468A-9184-13DC4F02D3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1671C03F-4EBB-468A-9184-13DC4F02D3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1671C03F-4EBB-468A-9184-13DC4F02D3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
