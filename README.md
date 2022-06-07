@@ -5,7 +5,7 @@
 - Mssql preferred as database
 
 # Database Install
-To change the connection string, you can go to the appsettings.json file inside the AktifBank Case Study.Api project.
+To change the connection string, you can go to the appsettings.json file inside the AktifBankCaseStudy.Api project.
 ```
   "ConnectionStrings": {
     "DefaultConnection": "Server=localhost;Database=AktifBankCaseStudyDb;User Id=sa;Password=MyPass@word;"
