@@ -1,6 +1,8 @@
 # AktifBankCaseStudy
 - This development was made for AktifBank
 - Api documentation is developed with swagger. Available at the /swagger endpoint.
+- Developed using .net 6
+- Mssql preferred as database
 
 # Database Install
 ```
