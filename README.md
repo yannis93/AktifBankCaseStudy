@@ -11,7 +11,7 @@ To change the connection string, you can go to the appsettings.json file inside 
     "DefaultConnection": "Server=localhost;Database=AktifBankCaseStudyDb;User Id=sa;Password=MyPass@word;"
   }
 ```
-After editing you can run the following command
+After editing you can run the following command to create the database schema
 
 ```
 dotnet ef database update --project AktifBankCaseStudy.Infrastructure.EFCore/AktifBankCaseStudy.Infrastructure.EFCore.csproj -s AktifBankCaseStudy.API/AktifBankCaseStudy.API.csproj --context AktifBankDbContext
