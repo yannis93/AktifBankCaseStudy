@@ -85,11 +85,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.Domain/AktifBankCaseStudy.Domain.csproj",
+      "projectUniqueName": "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.Domain/AktifBankCaseStudy.Domain.csproj",
       "projectName": "AktifBankCaseStudy.Domain",
-      "projectPath": "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.Domain/AktifBankCaseStudy.Domain.csproj",
+      "projectPath": "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.Domain/AktifBankCaseStudy.Domain.csproj",
       "packagesPath": "/Users/yunusemrebayazit/.nuget/packages/",
-      "outputPath": "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.Domain/obj/",
+      "outputPath": "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yunusemrebayazit/.nuget/NuGet/NuGet.Config"
@@ -104,8 +104,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.SharedKernel/AktifBankCaseStudy.SharedKernel.csproj": {
-              "projectPath": "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.SharedKernel/AktifBankCaseStudy.SharedKernel.csproj"
+            "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.SharedKernel/AktifBankCaseStudy.SharedKernel.csproj": {
+              "projectPath": "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.SharedKernel/AktifBankCaseStudy.SharedKernel.csproj"
             }
           }
         }

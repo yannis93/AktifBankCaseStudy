@@ -2508,11 +2508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.Application/AktifBankCaseStudy.Application.csproj",
+      "projectUniqueName": "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.Application/AktifBankCaseStudy.Application.csproj",
       "projectName": "AktifBankCaseStudy.Application",
-      "projectPath": "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.Application/AktifBankCaseStudy.Application.csproj",
+      "projectPath": "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.Application/AktifBankCaseStudy.Application.csproj",
       "packagesPath": "/Users/yunusemrebayazit/.nuget/packages/",
-      "outputPath": "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.Application/obj/",
+      "outputPath": "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yunusemrebayazit/.nuget/NuGet/NuGet.Config"
@@ -2527,11 +2527,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.Domain/AktifBankCaseStudy.Domain.csproj": {
-              "projectPath": "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.Domain/AktifBankCaseStudy.Domain.csproj"
+            "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.Domain/AktifBankCaseStudy.Domain.csproj": {
+              "projectPath": "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.Domain/AktifBankCaseStudy.Domain.csproj"
             },
-            "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.Infrastructure.EfCore/AktifBankCaseStudy.Infrastructure.EfCore.csproj": {
-              "projectPath": "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.Infrastructure.EfCore/AktifBankCaseStudy.Infrastructure.EfCore.csproj"
+            "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.Infrastructure.EfCore/AktifBankCaseStudy.Infrastructure.EfCore.csproj": {
+              "projectPath": "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.Infrastructure.EfCore/AktifBankCaseStudy.Infrastructure.EfCore.csproj"
             }
           }
         }

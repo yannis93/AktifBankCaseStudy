@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VL9jj+qRAJXIB/wRkR0DnmciwY8P5aATv+BrqFc+xBHn6JmORrGYKvRyzkcITGyop14tuctpG4p0pIevvWmzJw==",
+  "dgSpecHash": "22v8+HJ4kGxMQc+1ip3oGyGFUtnQV3SuuXWz0GSwH0e+MOcW0rzbkAS5qKBUEN2qzYsQIqHg2KLYZ/n0Jzq5dQ==",
   "success": true,
-  "projectFilePath": "/Users/yunusemrebayazit/RiderProjects/AktifBankCaseStudy/AktifBankCaseStudy.Application/AktifBankCaseStudy.Application.csproj",
+  "projectFilePath": "/Users/yunusemrebayazit/Desktop/AktifBankCaseStudy/AktifBankCaseStudy.Application/AktifBankCaseStudy.Application.csproj",
   "expectedPackageFiles": [
     "/Users/yunusemrebayazit/.nuget/packages/ardalis.specification/6.0.1/ardalis.specification.6.0.1.nupkg.sha512",
     "/Users/yunusemrebayazit/.nuget/packages/ardalis.specification.entityframeworkcore/6.0.1/ardalis.specification.entityframeworkcore.6.0.1.nupkg.sha512",
